@@ -12,7 +12,7 @@ export default function Navbar(){
                         <li>Profile</li>
                     </Link>
 
-                    <Link to='/SigIn'>
+                    <Link to='/signup'>
                         <li>Account</li>
                     </Link>
                     
