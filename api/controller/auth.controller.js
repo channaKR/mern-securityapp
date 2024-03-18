@@ -10,8 +10,8 @@ export const signUp = async(req,res,next)=>{
             message:"User Added to the Db"
         });
     }catch(error){
-
-       next(error);
+        
+        next(error);
     }
 
    
